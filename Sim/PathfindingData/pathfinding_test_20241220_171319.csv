@@ -1,0 +1,2 @@
+Timestamp,Algorithm,StartPosition,TargetPosition,ExecutionTime(ms),NodesExplored,PathLength,PathCost,HeightDifference,PathPointCount,WasPathFound,AverageSegmentLength
+2024-12-20 17:13:35,AStar,"(-0.84, 2.00, 1.14)","(-74.40, 5.00, 135.19)",5902,897,0,166,19,170,69,3,00,136,True,1,23

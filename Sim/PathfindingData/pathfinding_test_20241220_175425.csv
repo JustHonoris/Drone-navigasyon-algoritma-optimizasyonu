@@ -1,0 +1,2 @@
+Timestamp,Algorithm,StartPosition,TargetPosition,ExecutionTime(ms),NodesExplored,PathLength,PathCost,HeightDifference,PathPointCount,WasPathFound,AverageSegmentLength
+2024-12-20 17:54:47,RRT,"(-0.84, 2.00, 1.14)","(-74.40, 5.00, 135.19)",5,657,87,172,61,195,11,9,00,66,True,2,66
