@@ -1,1 +1,1 @@
-# Drone-navigasyon-algoritma-optimizasyonu
+# Dron-navigasyon-algoritma-optimizasyonu
